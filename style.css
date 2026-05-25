@@ -1,0 +1,12 @@
+body{
+    background-color: darkslateblue;
+    text-align: center;
+    
+}
+img{
+    width: 130px;
+}
+.cartao{
+    width: 40%;
+    background-color: rgba(78, 74, 74, 0.397);
+}
